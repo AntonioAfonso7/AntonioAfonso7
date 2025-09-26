@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠 Recent Work
+### 🛠 Work Experience
 - **AI Language Engineer @ M47 Labs** (2025– )  
   Building multilingual data pipelines for a global-scale voice assistant.
 
@@ -18,15 +18,13 @@
 
 ---
 
-### 📄 Featured Publication
+### 📄 Publications
 
 ![](https://cornell.app.box.com/v/arxiv-logomark-small-svg)
 **Self-correcting Reward Shaping via Language Models for RL Agents in Games**  
 *RLC 2025 – Reinforcement Learning in Video Games Workshop*  
 
 [📖 Read on arXiv](https://arxiv.org/abs/2506.23626)
-
-
 
 
 ---
