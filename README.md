@@ -14,7 +14,7 @@
   Building multilingual data pipelines for a global-scale voice assistant.
 
 - **ML Research Intern @ Electronic Arts** (2025)  
-  Created an **LLM-powered reward-shaping interface** for Reinforcement Learning in games—enabling designers to specify high-level behaviours in plain language.
+  Created an **LLM-powered reward-shaping interface** for Reinforcement Learning in games, enabling designers to specify high-level behaviours in plain language.
 
 ---
 
