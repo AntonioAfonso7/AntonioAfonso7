@@ -1,5 +1,8 @@
-# António Afonso
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F85D7F&background=1F222E00&width=600&lines=AI+Language+Engineer+%40+M47+Labs;ML+Research+Engineer+Intern+%40+Electronic+Arts;CS+Student+%40+KTH+%2B+Técnico)](https://git.io/typing-svg)
+<h1 style="font-family: 'Fira Code', 'Consolas', 'Monaco', monospace; font-size: 2.5em; font-weight: bold;">
+    António Afonso
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F85D7F&background=1F222E00&width=600&lines=AI+Language+Engineer+%40+M47+Labs;ML+Research+Engineer+Intern+%40+Electronic+Arts;Master's+CS+Student+%40+KTH;Undergrad+CS+%40+Técnico)](https://git.io/typing-svg)
 
 
 
@@ -17,15 +20,14 @@
 
 ### 📄 Featured Publication
 
-<a href="https://arxiv.org/abs/2506.23626" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/ArXiv_logo.png" alt="arXiv logo" width="80" align="left" style="margin-right: 16px;" />
-</a>
-
+![](https://cornell.app.box.com/v/arxiv-logomark-small-svg)
 **Self-correcting Reward Shaping via Language Models for RL Agents in Games**  
 *RLC 2025 – Reinforcement Learning in Video Games Workshop*  
-[arXiv:2506.23626](https://arxiv.org/abs/2506.23626)
 
-<br clear="left" />
+[📖 Read on arXiv](https://arxiv.org/abs/2506.23626)
+
+
+
 
 ---
 
@@ -40,7 +42,7 @@
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jnns2023&repo=DL-Idempotent&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
            alt="DL-Idempotent">
     </a>
-    <!-- PROJ-PO -->
+    <!-- Wahrehouse Management System -->
     <a href="https://github.com/AntonioAfonso7/PROJ-PO">
       <img width="278"
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntonioAfonso7&repo=PROJ-PO&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false"
@@ -106,7 +108,9 @@
 Note that most of my contributions happened outside of this repo (or in private ones)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AntonioAfonso7&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=AntonioAfonso7&theme=merko&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioAfonso7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
