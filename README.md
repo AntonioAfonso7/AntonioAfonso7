@@ -2,7 +2,7 @@
     António Afonso
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F85D7F&background=1F222E00&width=600&lines=AI+Language+Engineer+%40+M47+Labs;ML+Research+Engineer+Intern+%40+Electronic+Arts;Master's+CS+Student+%40+KTH;Undergrad+CS+%40+Técnico)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F85D7F&background=1F222E00&width=600&lines=AI+Language+Engineer+%40+M47+Labs;ML+Research+Engineer+Intern+%40+Electronic+Arts;Master's+CS+Student+%40+KTH;Undergrad+CS+%40+Técnico)
 
 
 
